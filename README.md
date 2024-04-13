@@ -14,8 +14,6 @@ I developed a travel application using HTML, CSS, and Javascript. An interactive
 
 <h4>IMAGE</h4>
 
-![](images/project-image1.png)
-
 ![](images/project-image2.png)
 
 
