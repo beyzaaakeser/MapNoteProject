@@ -7,6 +7,7 @@ I developed a travel application using HTML, CSS, and Javascript. An interactive
 - HTML5
 - CSS3
 - JavaScript
+- API
 
 <h2> Visit My Map Notes Project: </h2>
 
